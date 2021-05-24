@@ -1,4 +1,4 @@
-# Histopath_FL
+# Feaderated Learning for Computational Pathology
 ***TL;DR:** Code accompanying [our paper](https://arxiv.org/abs/2004.09666) for simulating weakly-supervised classification and survival prediction on multi-institutional histopathology WSI data using federated learning*
 
 <img src="Fig1.jpg" align="center" />
