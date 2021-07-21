@@ -27,7 +27,7 @@ Please refer to refer to [CLAM](https://github.com/mahmoodlab/CLAM) for examples
 
 Results by default are saved to **./results** folder. Predictions for each sample in the test set are stored in **.pkl** files under the directory specified --exp_code (see below).
 
-# Run Classification 
+# Classification 
 use main.py --h for help on list of possible commandline arguments
 See the definition of args.task in **main.py** for how to setup experiments with your own dataset (currently a dummy task is provided for illustration corresponding to the csv_file **dataset_csv/classification_fl_dummy_dataset.csv** and features stored under **DATA_ROOT_DIR/classification_features_dir**).
 See **splits/classification_dummy** for examples on the expected format of train/val/test splits for k-fold experiments.
@@ -51,7 +51,7 @@ Training with federated averaging can be simulated by removing the --no_fl flag,
 CUDA_VISIBLE_DEVICES=0,1 python main.py --k 5 --exp_code classification_noise_0.001 --weighted_sample --task classification --noise_level 0.001 --weighted_fl_avg --data_root_dir DATA_ROOT_DIR --split_dir classification_dummy
 ```
 
-# Run Survival Prediction 
+# Survival Prediction 
 use main_surv.py --h for help on list of possible commandline arguments
 See the definition of args.task in **main.py** for how to setup experiments with your own dataset (currently a dummy task is provided for illustration corresponding to the csv_file **dataset_csv/survival_fl_dummy_dataset.csv** and features stored under **DATA_ROOT_DIR/survival_features_dir**).
 See **splits/survival_dummy** for examples on the expected format of train/val/test splits for k-fold experiments.
