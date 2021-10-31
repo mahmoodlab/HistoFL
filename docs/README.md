@@ -1,5 +1,12 @@
-# HistoFL: A Toolbox for Feaderated Learning in Computational Pathology
-***TL;DR:** Code accompanying [our paper](https://arxiv.org/abs/2009.10190) for simulating weakly-supervised classification and survival prediction on multi-institutional histopathology WSI data using federated learning*
+# HistoFL
+===========
+### Federated Learning for Computational Pathology on Gigapixel Whole Slide Images
+
+Read Link | Journal Link 
+
+© This code is made available for non-commercial academic purposes. 
+
+***TL;DR:** Code accompanying [our paper](https://arxiv.org/abs/2009.10190) for simulating weakly-supervised classification and survival prediction on multi-institutional histopathology WSI data using federated learning with differential privacy*
 
 <img src="Fig1.jpg" align="center" />
 
