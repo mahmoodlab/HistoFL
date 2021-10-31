@@ -1,4 +1,4 @@
-# HistoFL
+HistoFL
 ===========
 ### Federated Learning for Computational Pathology on Gigapixel Whole Slide Images
 
