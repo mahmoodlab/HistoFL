@@ -2,6 +2,8 @@ HistoFL
 ===========
 ### Federated Learning for Computational Pathology on Gigapixel Whole Slide Images
 
+*Medical Image Analysis*
+
 Read Link | Journal Link 
 
 © This code is made available for non-commercial academic purposes. 
