@@ -4,7 +4,7 @@ HistoFL
 
 *Medical Image Analysis*
 
-Read Link | Journal Link 
+[Read Link](https://www.sciencedirect.com/science/article/pii/S1361841521003431/pdfft?md5=1805618fc296e3db1ce12ab8658522cb&pid=1-s2.0-S1361841521003431-main.pdf) | [Journal Link](https://www.sciencedirect.com/science/article/pii/S1361841521003431) 
 
 © This code is made available for non-commercial academic purposes. 
 
