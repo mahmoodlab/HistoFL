@@ -88,10 +88,13 @@ CUDA_VISIBLE_DEVICES=0,1 python main_surv.py --k 5 --exp_code survival_noise_0.0
 ## Reference
 If you find our work useful in your research or if you use parts of this code please consider citing our paper:
 ```
-@article{lu2020federated,
-  title={Federated Learning for Computational Pathology on Gigapixel Whole Slide Images},
-  author={Lu, Ming Y and Kong, Dehan and Lipkova, Jana and Chen, Richard J and Singh, Rajendra and Williamsona, Drew FK and Chena, Tiffany Y and Mahmood, Faisal},
-  journal={arXiv preprint arXiv:2009.10190},
-  year={2020}
+@article{lu2022federated,
+  title={Federated learning for computational pathology on gigapixel whole slide images},
+  author={Lu, Ming Y and Chen, Richard J and Kong, Dehan and Lipkova, Jana and Singh, Rajendra and Williamson, Drew FK and Chen, Tiffany Y and Mahmood, Faisal},
+  journal={Medical image analysis},
+  volume={76},
+  pages={102298},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
